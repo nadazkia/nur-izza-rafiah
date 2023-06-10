@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/nur-izza-rafiah/static/css/main.d4b82164.css",
-    "main.js": "/nur-izza-rafiah/static/js/main.9dd4db84.js",
+    "main.css": "/nur-izza-rafiah/static/css/main.1842a778.css",
+    "main.js": "/nur-izza-rafiah/static/js/main.40681c72.js",
     "index.html": "/nur-izza-rafiah/index.html",
-    "main.d4b82164.css.map": "/nur-izza-rafiah/static/css/main.d4b82164.css.map",
-    "main.9dd4db84.js.map": "/nur-izza-rafiah/static/js/main.9dd4db84.js.map"
+    "main.1842a778.css.map": "/nur-izza-rafiah/static/css/main.1842a778.css.map",
+    "main.40681c72.js.map": "/nur-izza-rafiah/static/js/main.40681c72.js.map"
   },
   "entrypoints": [
-    "static/css/main.d4b82164.css",
-    "static/js/main.9dd4db84.js"
+    "static/css/main.1842a778.css",
+    "static/js/main.40681c72.js"
   ]
 }
