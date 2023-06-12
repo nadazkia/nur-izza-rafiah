@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/nur-izza-rafiah/static/css/main.1842a778.css",
-    "main.js": "/nur-izza-rafiah/static/js/main.40681c72.js",
+    "main.css": "/nur-izza-rafiah/static/css/main.fa9512d8.css",
+    "main.js": "/nur-izza-rafiah/static/js/main.281b06cf.js",
+    "static/media/masjid.jpg": "/nur-izza-rafiah/static/media/masjid.0416e324df7bff97e6de.jpg",
     "index.html": "/nur-izza-rafiah/index.html",
-    "main.1842a778.css.map": "/nur-izza-rafiah/static/css/main.1842a778.css.map",
-    "main.40681c72.js.map": "/nur-izza-rafiah/static/js/main.40681c72.js.map"
+    "main.fa9512d8.css.map": "/nur-izza-rafiah/static/css/main.fa9512d8.css.map",
+    "main.281b06cf.js.map": "/nur-izza-rafiah/static/js/main.281b06cf.js.map"
   },
   "entrypoints": [
-    "static/css/main.1842a778.css",
-    "static/js/main.40681c72.js"
+    "static/css/main.fa9512d8.css",
+    "static/js/main.281b06cf.js"
   ]
 }
